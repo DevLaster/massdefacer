@@ -25,3 +25,16 @@ this is an tool that you give your vuln .txt sites and it checks and pump up you
 
       or
   $ pip install -r requirements.txt
+
+
+  ### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/DevLaster/massdefacer.git
+   
+2. Run in cmd when you insall all the Libraries
+   ```
+   python mass.py
+
+3. Enjoy (:
